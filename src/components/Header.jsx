@@ -42,11 +42,11 @@ const Header = () => {
                 info@emporexmultichem.com
               </a>
               <a
-                href="tel:+919825128144"
+                href="tel:+919213478713"
                 className="flex items-center gap-2 hover:text-emerald-100 transition-colors"
               >
                 <Phone size={16} />
-                (+91) 98251 28144
+                (+91) 92134 78713
               </a>
             </div>
             <div className="flex gap-4 text-xs">

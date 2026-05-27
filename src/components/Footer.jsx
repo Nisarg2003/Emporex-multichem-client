@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { MapPin, Phone, Mail, Clock, Globe } from "lucide-react";
 import { products } from "../data/products";
-import companyFooterLogo from "../images/companyFooterLogo.jpg";
+import companyFooterLogo from "../images/logo.png";
 
 const Footer = () => {
   return (
@@ -52,10 +52,10 @@ const Footer = () => {
               <div className="flex items-center gap-3">
                 <Phone size={18} className="text-emerald-500 flex-shrink-0" />
                 <a
-                  href="tel:+919825128144"
+                  href="tel:+919213478713"
                   className="hover:text-emerald-400 transition-colors"
                 >
-                  +91-98251 28144
+                  +91-92134 78713
                 </a>
               </div>
               <div className="flex items-center gap-3">
